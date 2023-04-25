@@ -1,0 +1,1 @@
+console.log("sc ad,mcvh ui;sdg iusxhc cfg iwxdhqshixcsdjkl")
